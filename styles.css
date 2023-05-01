@@ -1,0 +1,35 @@
+/*Lo de poner en negrita y cursiva las letras no lo hice por css porque el ejercicio decía a través de
+etiquetas html  */
+
+/*Estilos de la tabla de horarios*/
+.dias {
+    font-size: 20px;
+}
+
+#lunes {
+    color: blue;
+}
+
+#martes {
+    color: red;
+}
+
+#miercoles {
+    color: cyan;
+}
+
+#jueves {
+    color:blueviolet;
+}
+
+#viernes {
+    color:brown;
+}
+
+#sabado {
+    color:green;
+}
+
+#domingo {
+    color:orange;
+}
