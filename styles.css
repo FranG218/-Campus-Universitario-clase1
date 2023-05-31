@@ -133,3 +133,8 @@ form {
     width: 200px;
     height: 300px;
 }
+
+.form-floating {
+    padding: 4px;
+    padding-bottom: 7px;
+}
