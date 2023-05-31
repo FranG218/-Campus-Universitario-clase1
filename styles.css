@@ -38,6 +38,7 @@ etiquetas html  */
     background-color: skyblue;
     height: 420px;
     text-align: center;
+    color: rgba(233, 2, 2, 0.788);
 }
 #tituloCampus {
     margin-top: 0px;
@@ -98,4 +99,37 @@ form {
 .contenedor2 a {
     margin-right: 10px;
     margin-left: 10px;
+}
+
+.header {
+    background-image: url("imagen-fondo.jpg") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.btn-wsp {
+    position:fixed;
+    width: 55px;
+    height: 55px;
+    line-height: 55px;
+    bottom: 30px;
+    right: 30px;
+    background: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 30px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+}
+
+.btn-wsp:hover{
+    text-decoration: none;
+    color: #0df053;
+    background: #fff;
+}
+
+.fundadoras {
+    width: 200px;
+    height: 300px;
 }
